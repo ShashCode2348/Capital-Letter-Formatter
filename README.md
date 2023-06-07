@@ -3,4 +3,4 @@ A little formatter that changes how your text is formatted. As of now there are 
 
 ## Instructions
 
-Download the file CapitalisationFormatter.py and run it in a Python terminal of your choice. There is a clear text GUI that wil tell you how to use it.
+Download the file [CapitalisationFormatter.py](https://github.com/ShashCode2348/Capital-Letter-Formatter/blob/main/CapitalisationFormatter.py) and run it in a Python terminal of your choice. There is a clear text GUI that wil tell you how to use it.
